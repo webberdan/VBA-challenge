@@ -8,7 +8,7 @@ Generally the script is organized into three subsections; declarations (Dims), V
 
 ## Calculations Performed
 
-The script referenced is name 'wallstreetFinalDW'
+The script referenced is name `wallstreetFinalDW`
 
 A requirement of the script was to perform the following calculations; define end row, define ticker symbol change using the <> operator, Yearly stock value change, yearly percent change, and total stock volume traded for the deined ticket symbol. 
 
